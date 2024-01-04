@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Itoro Michael Ekpo. A graduate of computer science and business admnistration. A telecommunications specialist with ten years designing and integrating radio access technologies around the world.
+- 👋 Hi, I’m Itoro Michael Ekpo. A graduate of Computer Science with a Masters degree in Business Admnistration (MBA). A telecommunications specialist with ten years designing and integrating Ericsson radio access technologies around the world.
   
-- 👀 I’m interested in Cloud Computing, DevOps & Data Analytics
+- 👀 I’m interested in Technology, Cloud Computing, DevOps & Data Analytics
   
-- 🌱 I’m currently learning Cloud DevOps on [darey.io](https://www.darey.io/)
+- 🌱 I’m currently studying Cloud DevOps on [darey.io](https://dareyio.com/)
   
 - 💞️ I’m looking to collaborate on DevOps projects, Cloud projects, Infrastructure as Code (Terraform) projects, Data Analytics projects
   
